@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-# Message  is   vue2
-=======
 # Message is vue2
->>>>>>> Stashed changes
 
 效果：
 
@@ -11,16 +7,9 @@
 用法：
 import Message from "/index.vue"
 
-<<<<<<< Updated upstream
-// vue引入
-
-```vue
-
-=======
 // vue 引入
 
 ```vue
->>>>>>> Stashed changes
 <Message v-show="Solt_Message_Delete" @closeb="closeb" @Confirms="Confirms">
 <template v-slot:title>
   <span>Delete Moodboard</span>
@@ -36,26 +25,6 @@ import Message from "/index.vue"
   Confirm
 </template>
 </Message>
-<<<<<<< Updated upstream
- ```
-
-## API
-
-* Solt_Message_Delete 控制弹窗的现实和隐藏
-* closeb 关闭方法，需要手动控制Solt_Message_Delete，以及你关闭时需要出发的操作
-* Confirms 删除方法，需要手动控制Solt_Message_Delete，以及你删除时需要出发的操作
-
-vue
-
-* v-slot:title 指定现实的标题
-* v-slot:content 指定显示的内容
-* v-slot:Cancel 指定返回按钮的文本
-* v-slot:Confirm 指定确认按钮的文本
-
-
-
-
-=======
 ```
 
 ## API
@@ -70,4 +39,3 @@ vue
 - v-slot:content 指定显示的内容
 - v-slot:Cancel 指定返回按钮的文本
 - v-slot:Confirm 指定确认按钮的文本
->>>>>>> Stashed changes
