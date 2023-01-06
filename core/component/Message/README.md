@@ -2,6 +2,9 @@
 
 用法：
 
+![img.png](img.png)
+
+用法：
 import Message from "/index.vue"
 
 // vue引入
