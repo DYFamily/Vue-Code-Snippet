@@ -1,6 +1,6 @@
 # Message  is   vue2
 
-用法：
+效果：
 
 ![img.png](img.png)
 
